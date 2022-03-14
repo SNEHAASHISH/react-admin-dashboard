@@ -1,5 +1,7 @@
 # react-admin-dashboard
 Assignment Task for Internship at Trade with MAK
+This is a react app making extensive use of 'react-admin' library to meet the requirments of the given task.
+
 
 # Install dependencies
 npm install
