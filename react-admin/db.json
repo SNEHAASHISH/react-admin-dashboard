@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "username": "Demo user",
+      "address": "Planet Earth",
+      "phoneNumber": "1234567890",
+      "email": "john@example.com",
+      "dob": "01-01-2001"
+    },
+    {
+      "name": "Sneh Aashish Gupta",
+      "address": "Flat-103, Tower-CMC/2\nSupertech Cape Town, Sector-74",
+      "phoneNumber": "8875245864",
+      "username": "sagroczz27",
+      "email": "2019ucp1900@mnit.ac.in",
+      "dob": "2001-11-27",
+      "id": "zHl1-8m"
+    }
+  ]
+}
